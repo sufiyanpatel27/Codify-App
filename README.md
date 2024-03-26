@@ -1,5 +1,7 @@
-# Codify
+# [Codify](https://codify-66d5ow1nn-sufiyanpatel27s-projects.vercel.app)
 Programming Courses and Full Stack Development Tutorials Platform
+
+[live demo](https://codify-66d5ow1nn-sufiyanpatel27s-projects.vercel.app)
 
 ## Overview
 Codify is a web application designed to provide programming courses and full-stack development tutorials. It covers a wide range of frameworks and libraries such as React, Node.js, Next.js, Flutter, and more. Please note that the courses provided are for demonstration purposes only and do not represent real courses.
