@@ -48,7 +48,7 @@ Our platform leverages a variety of cutting-edge technologies to deliver an opti
 ## Credits
 
 -  Project Creator: Sufiyan Patel
--  Special Thanks: Hitesh Chaudhary for [specific contribution or inspiration]
+-  Special Thanks: Hitesh Chaudhary for inspiration.
   
   I would like to extend my gratitude to Hitesh Chaudhary for his insightful tutorial series on Next JS. His guidance and explanations greatly contributed to the development of this application. You can find the tutorial series on their YouTube channel [here](https://www.youtube.com/@HiteshChoudharydotcom).
 
