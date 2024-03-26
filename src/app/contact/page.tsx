@@ -26,7 +26,7 @@ export default function pages() {
         </h1>
 
         <p className="font-normal text-base text-slate-500 mt-6 relative max-w-[700px] text-center z-50">
-          We're here to help with any questions about our courses, programs, or events. Reach out and let us know how we can assist you in your coding journy.
+          We&apos;re here to help with any questions about our courses, programs, or events. Reach out and let us know how we can assist you in your coding journy.
         </p>
 
         <button className="border mt-10 px-4 py-1 rounded-lg  border-gray-500 text-gray-300" onClick={() => openEmail()}>
